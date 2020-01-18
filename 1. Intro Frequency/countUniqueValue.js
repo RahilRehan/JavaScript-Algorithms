@@ -14,6 +14,7 @@ function countUniqueValues(arr){
             j++;
         }
     }
+    console.log(arr)
     return i+1;
 }
 
