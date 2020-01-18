@@ -6,14 +6,14 @@ This repository contains some of the popular Algorithms implemented in JavaScrip
     This Module contains some basic array string questions
   ### 2. Elementary Sorting
     Basic sorting algorithms containing.
-      ** Bubble
-      ** Insertion
-      ** Selection sort
+      + Bubble
+      + Insertion
+      + Selection sort
   ### 3. Intermediate sorting
     Intermediate sorting algorithms with divide and conquer strategies and counting based approaches.
-      ** Merge Sort
-      ** Quick Sort
-      ** Radix Sorting
+      + Merge Sort
+      + Quick Sort
+      + Radix Sorting
   ### 4. Data Structures Introduction
     Data Structures JavaScript language constructs.
   ### 5. Linked Lists
@@ -24,8 +24,8 @@ This repository contains some of the popular Algorithms implemented in JavaScrip
     FIFO class-object implementation.
   ### 8. Binary Search Trees
     Implementation of BST's and some tree operations
-      1. Insert and Find
-      2. Depth and Breadth First Searches
+      + Insert and Find
+      + Depth and Breadth First Searches
   ### 9. Binary Heaps
       Max Heap and Priority queue
   ### 10. Hash Tables
